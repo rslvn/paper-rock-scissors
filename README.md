@@ -1,8 +1,8 @@
 # paper-rock-scissors
 A Paper-Rock-Scissors java8 spring-boot implementation.
 
-Test case coverage: %100
-Test line coverage: %96
+- Test case coverage: `%100`
+- Test line coverage: `%96`
 
 ## build
     gradle build
